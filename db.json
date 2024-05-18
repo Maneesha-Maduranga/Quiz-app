@@ -1,0 +1,65 @@
+{
+    
+    "questions": [
+        {
+        "question": "Which HTML element is used to define an unordered list?",
+        "options": ["<ol>", "<ul>", "<li>", "<dl>"],
+        "correctOption": 1,
+        "points": 10
+    },
+    {
+        "question": "Which CSS property is used to change the background color?",
+        "options": ["color", "bgcolor", "background-color", "background"],
+        "correctOption": 2,
+        "points": 10
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["HyperText Markup Language", "HyperText Markdown Language", "HyperTool Markup Language", "HyperTool Markdown Language"],
+        "correctOption": 0,
+        "points": 10
+    },
+    {
+        "question": "Which company developed the Angular framework?",
+        "options": ["Facebook", "Google", "Microsoft", "Apple"],
+        "correctOption": 1,
+        "points": 10
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+        "options": ["<script href='script.js'>", "<script src='script.js'>", "<script ref='script.js'>", "<script link='script.js'>"],
+        "correctOption": 1,
+        "points": 10
+    },
+    {
+        "question": "Which of the following is a NoSQL database?",
+        "options": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+        "correctOption": 2,
+        "points": 10
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+        "correctOption": 0,
+        "points": 10
+    },
+    {
+        "question": "Which JavaScript method is used to write HTML output?",
+        "options": ["document.write()", "console.log()", "window.print()", "document.show()"],
+        "correctOption": 0,
+        "points": 10
+    },
+    {
+        "question": "In which year was the first version of HTML released?",
+        "options": ["1990", "1991", "1993", "1995"],
+        "correctOption": 1,
+        "points": 10
+    },
+    {
+        "question": "Which of the following is used to create a responsive web design?",
+        "options": ["Bootstrap", "Tailwind", "Bulma", "All of the above"],
+        "correctOption": 3,
+        "points": 10
+    }
+        ]
+}
