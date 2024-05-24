@@ -4,11 +4,14 @@ import App from './App.jsx';
 import './index.css';
 
 import ThemeProvider from './components/ui/ThemeProvider.jsx';
+import { QuizProvider } from './context/QuizContext';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <ThemeProvider defaultTheme='dark'>
-      <App />
-    </ThemeProvider>
+    <QuizProvider>
+      <ThemeProvider defaultTheme='dark'>
+        <App />
+      </ThemeProvider>
+    </QuizProvider>
   </React.StrictMode>
 );
